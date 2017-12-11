@@ -1,0 +1,6 @@
+*.bak
+*.orig
+*.pyc
+*~
+db.sqlite3
+venv
